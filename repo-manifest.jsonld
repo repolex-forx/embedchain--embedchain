@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/embedchain/embedchain/commit/0724291bd864cf807e88ee8981c8226644e8fb42",
       "git:hexsha": "0724291bd864cf807e88ee8981c8226644e8fb42",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/embedchain/embedchain/commit/8ad6a5b5e7abab1d91ed4255426cc7f0324abb27",
