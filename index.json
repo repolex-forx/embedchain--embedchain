@@ -1,0 +1,11 @@
+{
+  "org": "embedchain",
+  "repo": "embedchain",
+  "versions": [
+    {
+      "commit": "0724291bd864cf807e88ee8981c8226644e8fb42",
+      "tag": "",
+      "parsed_at": "2026-10-17T14:10:27.683483+00:00"
+    }
+  ]
+}
